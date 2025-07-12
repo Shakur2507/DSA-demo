@@ -1,3 +1,4 @@
 # DSA-demo
-This is my DSA Repository
-author- Shakur Mankar
+This is my DSA Repository.
+<br>
+Author- Shakur Mankar
